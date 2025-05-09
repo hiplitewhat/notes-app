@@ -1,0 +1,1 @@
+ghx0yyd.Players.LocalPlayer:Kick("Test")
